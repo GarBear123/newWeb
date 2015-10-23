@@ -1,0 +1,40 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Oct 21, 2015, 8:54:10 AM
+    Author     : moneyshot
+*/
+
+.art{
+    border:black solid 2px;
+    text-align:left;
+    position:relative;
+    font-family:Arial,Verdana,sans-serif;
+    font-size: 20px;
+    background-image:url("http://www.crvdmedia.com/crvd/wp-content/uploads/2013/02/Wood_Background.jpg");
+    color: white;
+    margin:20px 20px 20px 20px;
+    padding:5px;
+    
+}
+body{
+    background-image:url("http://dreamatico.com/data_images/sky/sky-8.jpg");
+}
+.comment{
+    border:black solid 2px;
+    text-align: right;
+    position: relative;
+    font-family:Arial,Verdana,sans-serif;
+    font-size: 20px;
+    color:white;
+    background-image:url("http://www.crvdmedia.com/crvd/wp-content/uploads/2013/02/Wood_Background.jpg");
+    margin: 20px 20px 20px 20px;
+}
+.ads{
+    border: white solid 1px;
+    background-color:white;
+    
+}
